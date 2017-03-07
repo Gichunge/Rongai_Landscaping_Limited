@@ -1,1 +1,12 @@
-
+.header,input[type="submit"],input[type="reset"]{color: green;background-image: url(../Images/Image58.jpg); background-size: 1350px}
+address,div.list{color: cyan}
+body{background-image: url(../Images/Image9.jpg);}
+u{color: red;font-size: 0.5cm}
+input[type="text"],textarea{background-color:pink;color: green;font-style: italic;font-family: arial}
+div>b{color: red;background-color: green}
+.link{background-image: url(../Images/Image5.jpg)}
+div>h2{color: red}
+.format{color: red;font-size: 1cm;}
+table{text-align: center;}
+.table{border-color: red;background-image: url(../Images/Image5.jpg);}
+.Download{color: white}
